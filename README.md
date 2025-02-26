@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+### About me
+
+  - 🔭 Developing games with Unity
+  - 💬 Learning new things
+
+
+
+### My Skills
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+
+
 [![AKIRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKIRA-natsu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
